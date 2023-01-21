@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p, ul{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bikerz-zone{
+    font-size: 35px;
+    font-weight: 900;
+}
+.bikerz-zone span{
+    color: orange;
+}
+.btn_search{
+    background: orange;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px 23px;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-size: 14px;
+    display: block;
+    height: 40px;
+    padding: 0 10px;
+    line-height: 40px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    height: 33px;
+    border-bottom: 2px solid #5C9F24;
+    color: orange;
+}
